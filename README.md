@@ -40,7 +40,7 @@ Here's a comprehensive `README.md` file for your Taskly project:
 ![Taskly Home Page](images/iPhone-13-PRO-localhost.png)
 
 ### **View Task - Timer Page**
-![Task Timer Page](images/Taskly-iPhone-13-PRO-localhost%20.png)
+![Task Timer Page](images/TasklyiPhone-13-PRO-localhost%20(1).png)
 
 ---
 
